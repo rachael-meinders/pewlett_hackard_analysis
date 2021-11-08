@@ -33,8 +33,6 @@ The challenge is meant to identify the number of current employees eligible for 
 
 ![retiring by title](https://user-images.githubusercontent.com/90879979/140676401-a6b59e31-0b64-4b57-ac92-d1b15fa72464.png)
 
-![mentees needed](https://user-images.githubusercontent.com/90879979/140676399-e51b2fbd-0b09-45bc-b18f-ced9c16bdd3f.png)
-
 ![mentees needed - revised](https://user-images.githubusercontent.com/90879979/140801057-ce40e985-91c8-485d-afaa-8676297ab9df.png)
 
 
