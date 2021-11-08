@@ -25,9 +25,9 @@ The challenge is meant to identify the number of current employees eligible for 
 - Data/mentorship_eligibility.csv
 
 ## Results
-1. There are 90, 398 current employees at Pewlett Hackard who were born 1952-1955, and who will be eligible for retirement.
-2. Senior staff and engineers will have the highest number of retiring employees at more than 28,000 each.
-3. There is a large number of current employees eligible for mentoring with the staff and engineer titles. This indicates that these employees could be promoted to senior positions, with their mentees filling in their former positions.
+1. There are 90, 398 employees at Pewlett Hackard who were born 1952-1955, and who will be eligible for retirement. This figure does include employees that are no longer with the company.
+2. Senior staff and engineers will have the highest number of retiring employees at a potential retiring count of more than 28,000 each.
+3. There is a large number of employees eligible for mentoring with the staff and engineer titles. This indicates that these employees could be promoted to senior positions, with their mentees filling in their former positions.
 4. There are a total of 1,549 qualified mentors with the current mentor requirements.
 
 ![retiring by title](https://user-images.githubusercontent.com/90879979/140676401-a6b59e31-0b64-4b57-ac92-d1b15fa72464.png)
